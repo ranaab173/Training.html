@@ -1,0 +1,72 @@
+h1 {
+background-color: orange;
+}
+p {
+color: green;
+}
+
+button {
+border-radius:15px;
+}
+
+button {
+box-shadow: 3px 3px 5px orange;
+}
+
+
+
+.header {
+    width: 100%; /* Ensures the header spans the full width of its container */
+    overflow: hidden; /* Prevents the image from overflowing if it's larger than the header */
+}
+
+.header-image {
+    width: 100%; /* Sets the width of the image to 100% of the header width */
+    height: auto; /* Allows the height to adjust automatically based on the image's aspect ratio */
+    display: block; /* Ensures the image behaves as a block-level element */
+}
+
+
+p {
+padding-top: 16px;
+padding-right: 12px;
+padding-bottom: 16px;
+padding-left: 20px;
+}
+
+p {
+padding: 16px 12px 16px 20px
+}
+
+/* 
+selector {
+border-top: top-width top-style top-color
+}
+*/
+
+header {
+border-bottom: 5px ridge red;
+}
+
+footer {
+border: 8px outset green;
+border-radius: 10px;
+}
+
+form {
+border-bottom-width: 3px;
+}
+form {
+border-bottom-style: groove
+}
+form {
+border-bottom-color: yellow
+}
+
+aside {
+border: 2px double green
+border-radius: 10px
+}
+
+
+
